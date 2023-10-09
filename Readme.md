@@ -1,1 +1,1 @@
-Python projects
+Python Projects
